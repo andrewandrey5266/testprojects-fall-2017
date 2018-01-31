@@ -1,0 +1,6 @@
+C:\Users\Dusheba\Desktop\univer\Bachelors\Bachelors.Domain\bin\Debug\Bachelors.Domain.dll
+C:\Users\Dusheba\Desktop\univer\Bachelors\Bachelors.Domain\bin\Debug\Bachelors.Domain.pdb
+C:\Users\Dusheba\Desktop\univer\Bachelors\Bachelors.Domain\obj\Debug\Bachelors.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Dusheba\Desktop\univer\Bachelors\Bachelors.Domain\obj\Debug\Bachelors.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dusheba\Desktop\univer\Bachelors\Bachelors.Domain\obj\Debug\Bachelors.Domain.dll
+C:\Users\Dusheba\Desktop\univer\Bachelors\Bachelors.Domain\obj\Debug\Bachelors.Domain.pdb
