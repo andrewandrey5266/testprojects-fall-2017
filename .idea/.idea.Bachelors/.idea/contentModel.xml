@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Dusheba\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Bachelors.1602769104.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Dusheba\Desktop\univer\Bachelors" t="IncludeFlat">
+    <e p="C:\Bachelors" t="IncludeFlat">
       <e p="Bachelors.Domain" t="IncludeRecursive">
         <e p="Bachelors.Domain.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
@@ -97,5 +96,6 @@
       </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
+    <e p="C:\Users\Dusheba\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Bachelors.-246866205.00" t="ExcludeRecursive" />
   </component>
 </project>
